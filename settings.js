@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "923127067592",
+  OWNER_NUMBER: "923127066592",
   SUDO_NUMBERS : "94715166712,94719574492",
   OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
@@ -38,7 +38,7 @@ module.exports = {
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
@@ -49,7 +49,7 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
+     ONLY_COMMANDS : true,
      STATUS : false,
   },
   BOT_OFFLINE : true,
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
